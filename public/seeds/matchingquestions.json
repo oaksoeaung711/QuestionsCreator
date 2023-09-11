@@ -1,0 +1,31 @@
+[
+    {
+        "question" : "ရေသည်အရောင်မရှိ",
+        "columnA" : "yes#no#notyes#notno#ok",
+        "columnAliststyle" : 1,
+        "columnB" : "yes#no#notyes#notno#ok",
+        "columnBliststyle" : 1
+
+    },
+    {
+        "question" : "Water is colorless.",
+        "columnA" : "yes#no#notyes#notno#ok",
+        "columnAliststyle" : 2,
+        "columnB" : "yes#no#notyes#notno#ok",
+        "columnBliststyle" : 2
+    },
+    {
+        "question" : "Fish cannot swim.",
+        "columnA" : "yes#no#notyes#notno#ok",
+        "columnAliststyle" : 3,
+        "columnB" : "yes#no#notyes#notno#ok",
+        "columnBliststyle" : 3
+    },
+    {
+        "question" : "Dogs have five legs.",
+        "columnA" : "yes#no#notyes#notno#ok",
+        "columnAliststyle" : 4,
+        "columnB" : "yes#no#notyes#notno#ok",
+        "columnBliststyle" : 4
+    }
+]

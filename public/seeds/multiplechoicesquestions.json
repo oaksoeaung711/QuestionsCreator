@@ -1,0 +1,22 @@
+[
+    {
+        "question" : "ရေသည်အရောင်မရှိ",
+        "choices" : "yes#no#notyes#notno#ok",
+        "liststyle" : 1
+    },
+    {
+        "question" : "Water is colorless.",
+        "choices" : "yes#no#notyes#notno#ok",
+        "liststyle" : 2
+    },
+    {
+        "question" : "Fish cannot swim.",
+        "choices" : "yes#no#notyes#notno#ok",
+        "liststyle" : 3
+    },
+    {
+        "question" : "Dogs have five legs.",
+        "choices" : "yes#no#notyes#notno#ok",
+        "liststyle" : 4
+    }
+]
